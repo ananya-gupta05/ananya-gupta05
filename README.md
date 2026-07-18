@@ -67,10 +67,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ananya-gupta05&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ananya-gupta05&color=blueviolet&style=flat)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ananya-gupta05&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>

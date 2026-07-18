@@ -1,9 +1,14 @@
-
 <div align="center">
 
 <a href="https://github.com/ananya-gupta05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ananya+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast;AWS+%7C+GCP+%7C+Docker+%7C+Terraform;Building+an+AWS+Attack+Path+Analysis+Engine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ananya+%F0%9F%91%8B;Cloud+%26+DevOps+Enthusiast;AWS+%7C+GCP+%7C+Docker+%7C+Terraform;Currently+prepping+for+AWS+SAA+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍-Delhi_NCR-informational?style=flat-square&color=1f6feb" />
+<img src="https://img.shields.io/badge/🎯-AWS_SAA_in_progress-informational?style=flat-square&color=1f6feb" />
+<img src="https://img.shields.io/badge/💼-IBM_PBEL_Intern-informational?style=flat-square&color=1f6feb" />
 
 </div>
 
@@ -25,26 +30,36 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 **About me**
-- 🎓 CS/IT student, Delhi NCR
-- ☁️ Focused on Cloud Computing & DevOps
-- 🛡️ Currently building an AWS Attack Path Analysis Engine
-- 📚 IBM PBEL Internship (NASSCOM x MEITY)
-- 📫 [LinkedIn](https://linkedin.com/in/ananyagupta02)
+
+🎓 CS/IT student, Delhi NCR
+☁️ Focused on Cloud Computing & DevOps
+📘 Currently preparing for AWS SAA (Solutions Architect Associate)
+🛡️ Built a cloud security detection engine + AWS attack path project
+📚 IBM PBEL Internship (NASSCOM x MEITY)
+📫 [Connect on LinkedIn](https://linkedin.com/in/ananyagupta02)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
 </td>
 </tr>
@@ -54,7 +69,11 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananya-gupta05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-gupta05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=ananya-gupta05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ananya-gupta05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fananya-gupta05%2Fprofile-readme" alt="profile views" />
 
 </div>

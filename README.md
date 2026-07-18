@@ -67,6 +67,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fananya-gupta05%2Fprofile-readme" alt="profile views" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ananya-gupta05&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ananya-gupta05&color=blueviolet&style=flat)
 
 </div>

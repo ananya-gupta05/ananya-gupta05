@@ -67,13 +67,6 @@
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=ananya-gupta05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ananya-gupta05&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fananya-gupta05%2Fprofile-readme" alt="profile views" />
 
 </div>

@@ -5,6 +5,8 @@
 <br><br>
 
 Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;Ex-Intern @IntelliDB & IBM PBEL
+<br><br>
+Connect with me on [LinkedIn](https://linkedin.com/in/ananyagupta02)&nbsp;&nbsp;·&nbsp;&nbsp;Read my stories and experience on [Medium](https://medium.com/@ananyagupta.august2005)
 
 </div>
 <br>
@@ -33,23 +35,21 @@ Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;
 - Built a real-time Cloud Security Detection Engine on AWS (CloudTrail, EventBridge, Lambda, DynamoDB, SNS)
 - Built a fully automated CI/CD pipeline (CodePipeline → CodeBuild → ECR → ECS)
 
-<p align="center"><a href="https://linkedin.com/in/ananyagupta02">LinkedIn</a> · <a href="https://medium.com/@ananyagupta.august2005">Medium</a></p>
-
 </td>
 <td valign="top" width="45%">
 
 **Tech Stack**
 
 *Cloud*
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square" />
 
 *DevOps and Tools*
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -62,7 +62,7 @@ Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;
 *Observability*
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square" />
 
 </td>
 </tr>

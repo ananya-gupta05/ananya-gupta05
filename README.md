@@ -33,7 +33,7 @@ Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;
 - Built a real-time Cloud Security Detection Engine on AWS (CloudTrail, EventBridge, Lambda, DynamoDB, SNS)
 - Built a fully automated CI/CD pipeline (CodePipeline → CodeBuild → ECR → ECS)
 
-[LinkedIn](https://linkedin.com/in/ananyagupta02) · [Medium](https://medium.com/@ananyagupta.august2005)
+<p align="center"><a href="https://linkedin.com/in/ananyagupta02">LinkedIn</a> · <a href="https://medium.com/@ananyagupta.august2005">Medium</a></p>
 
 </td>
 <td valign="top" width="45%">
@@ -41,15 +41,15 @@ Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;
 **Tech Stack**
 
 *Cloud*
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 *DevOps and Tools*
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -62,11 +62,17 @@ Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;
 *Observability*
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 </td>
 </tr>
 </table>
+<br>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ananya-gupta05&theme=tokyonight&hide_border=true&starting_year=2026)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
 <br>
 
 **Notable Repositories**
@@ -76,10 +82,3 @@ Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;
 | [Orchestration & Resource Management Layer with Monitoring](https://github.com/ananya-gupta05/Orchestration-and-Resource-management-layer-with-monitoring) | Kubernetes infrastructure for a multi-tenant DBaaS — HA PostgreSQL (Patroni/etcd), gRPC provisioning API, Prometheus + Grafana observability |
 | [2048 CI/CD Pipeline on AWS](https://github.com/ananya-gupta05/2048-cicd) | Fully automated CodePipeline → CodeBuild → ECR → ECS deployment pipeline |
 | [Cloud Security Detection Engine](https://github.com/ananya-gupta05/cloud-security-detection-engine) | Real-time AWS security monitoring pipeline with CloudTrail, EventBridge, Lambda, and DynamoDB |
-
-<br>
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ananya-gupta05&theme=tokyonight&hide_border=true&starting_year=2026)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>

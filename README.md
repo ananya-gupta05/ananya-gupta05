@@ -5,11 +5,14 @@
 <br><br>
 
 Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;Ex-Intern @IntelliDB & IBM PBEL
+
 <br><br>
 
-Connect with me on [LinkedIn](https://linkedin.com/in/ananyagupta02)
+Connect with me on
+<a href="https://linkedin.com/in/ananyagupta02">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-Read my stories and experience on [Medium](https://medium.com/@ananyagupta.august2005)
+Read my stories and experience on
+<a href="https://medium.com/@ananyagupta.august2005">Medium</a>
 
 </div>
 
@@ -31,7 +34,8 @@ Read my stories and experience on [Medium](https://medium.com/@ananyagupta.augus
 
 <table align="center">
 <tr>
-<td valign="top" width="55%">
+
+<td valign="top" width="45%">
 
 **About**
 
@@ -43,10 +47,8 @@ Read my stories and experience on [Medium](https://medium.com/@ananyagupta.augus
 - Built a fully automated CI/CD pipeline (CodePipeline → CodeBuild → ECR → ECS)
 
 </td>
-</tr>
-</table>
 
-<br>
+<td valign="top" width="55%">
 
 **Tech Stack**
 
@@ -55,81 +57,95 @@ Read my stories and experience on [Medium](https://medium.com/@ananyagupta.augus
 <table>
 <tr>
 
-<td align="center" valign="middle">
-<img src="./icons/ec2.svg" width="32"><br>
+<td align="center">
+<img src="./icons/ec2.svg" width="30"><br>
 <sub>EC2</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/lambda.svg" width="32"><br>
+<td align="center">
+<img src="./icons/lambda.svg" width="30"><br>
 <sub>Lambda</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/s3.svg" width="32"><br>
+<td align="center">
+<img src="./icons/s3.svg" width="30"><br>
 <sub>S3</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/api-gateway.svg" width="32"><br>
+<td align="center">
+<img src="./icons/api-gateway.svg" width="30"><br>
 <sub>API Gateway</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/dynamodb.svg" width="32"><br>
+</tr>
+<tr>
+
+<td align="center">
+<img src="./icons/dynamodb.svg" width="30"><br>
 <sub>DynamoDB</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/iam.svg" width="32"><br>
+<td align="center">
+<img src="./icons/iam.svg" width="30"><br>
 <sub>IAM</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/vpc.svg" width="32"><br>
+<td align="center">
+<img src="./icons/vpc.svg" width="30"><br>
 <sub>VPC</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/cognito.svg" width="32"><br>
+<td align="center">
+<img src="./icons/cognito.svg" width="30"><br>
 <sub>Cognito</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
+<img src="./icons/cloudwatch.svg" width="30"><br>
+<sub>CloudWatch</sub>
 </td>
 
 </tr>
 </table>
 
-*DevOps and Tools*
+*DevOps & Tools*
 
 <table>
 <tr>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>
+<td align="center">
+<img src="./icons/git.png" width="30"><br>
 <sub>Git</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"><br>
+<td align="center">
+<img src="./icons/github.png" width="30"><br>
 <sub>GitHub</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"><br>
+<td align="center">
+<img src="./icons/docker.png" width="30"><br>
 <sub>Docker</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
+</tr>
+<tr>
+
+<td align="center">
+<img src="./icons/github-actions.png" width="30"><br>
 <sub>GitHub Actions</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"><br>
+<td align="center">
+<img src="./icons/kubernetes.webp" width="30"><br>
 <sub>Kubernetes</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
+<td align="center">
+<img src="./icons/linux.jpg" width="30"><br>
 <sub>Linux</sub>
 </td>
 
@@ -141,19 +157,19 @@ Read my stories and experience on [Medium](https://medium.com/@ananyagupta.augus
 <table>
 <tr>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"><br>
+<td align="center">
+<img src="./icons/prometheus.png" width="30"><br>
 <sub>Prometheus</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"><br>
+<td align="center">
+<img src="./icons/grafana.webp" width="30"><br>
 <sub>Grafana</sub>
 </td>
 
-<td align="center" valign="middle">
-<img src="./icons/cloudwatch.svg" width="32"><br>
-<sub>CloudWatch</sub>
+</tr>
+</table>
+
 </td>
 
 </tr>

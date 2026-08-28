@@ -1,14 +1,12 @@
 <div align="center">
-
-<h2><span style="color:#58A6FF;">Hi, I'm Ananya</span></h2>
-
-<br>
-
-Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;Ex-Intern @IntelliDB & IBM PBEL
-
+<a href="https://github.com/ananya-gupta05">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ananya;Cloud+%26+DevOps+Student;AWS+%7C+Docker+%7C+Kubernetes;Currently+prepping+for+AWS+SAA" alt="Typing SVG" />
+</a>
 <br><br>
 
-Connect with me on [LinkedIn](https://linkedin.com/in/ananyagupta02)&nbsp;&nbsp;·&nbsp;&nbsp;Read my stories and experience on [Medium](https://medium.com/@ananyagupta.august2005)
+Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;Ex-Intern @IntelliDB & IBM PBEL
+<br>
+Connect with me on [LinkedIn](https://linkedin.com/in/ananyagupta02)&nbsp;&nbsp;·&nbsp;&nbsp;Read my stories and experience on [Medium](https://medium.com/@ananya-gupta.august2005)
 
 </div>
 

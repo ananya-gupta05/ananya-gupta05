@@ -1,14 +1,12 @@
 <div align="center">
 
-<h2>Hi, I'm Ananya</h2>
+<h2><span style="color:#58A6FF;">Hi, I'm Ananya</span></h2>
 
-Fourth-year Computer Science student focused on Cloud Computing & DevOps
-
-<br><br>
+<br>
 
 Delhi NCR&nbsp;&nbsp;·&nbsp;&nbsp;AWS SAA in progress&nbsp;&nbsp;·&nbsp;&nbsp;Ex-Intern @IntelliDB & IBM PBEL
 
-<br>
+<br><br>
 
 Connect with me on [LinkedIn](https://linkedin.com/in/ananyagupta02)&nbsp;&nbsp;·&nbsp;&nbsp;Read my stories and experience on [Medium](https://medium.com/@ananyagupta.august2005)
 
@@ -35,25 +33,25 @@ Connect with me on [LinkedIn](https://linkedin.com/in/ananyagupta02)&nbsp;&nbsp;
 
 <td valign="top" width="42%">
 
-<h3>About</h3>
+### About
 
-- Fourth-year Computer Science student at Amity University, Noida
-- Focused on Cloud Computing, DevOps & Cloud Security
-- Currently preparing for AWS Solutions Architect Associate
+- CS/IT student, Delhi NCR
+- Focused on Cloud Computing & DevOps
+- Currently preparing for AWS SAA (Solutions Architect Associate)
 - AWS Certified Cloud Practitioner (CLF-C02)
 - Cisco Certified Network Associate (CCNA)
 - Cloud Platform Intern @ IBM PBEL
 - Cloud & DevOps Intern @ IntelliDB
-- Built automated CI/CD pipelines using CodePipeline, CodeBuild, ECR & ECS
+- Built a fully automated CI/CD pipeline using CodePipeline, CodeBuild, ECR & ECS
 - Deployed highly-available PostgreSQL infrastructure on Kubernetes using Patroni & etcd
-- Built real-time AWS security monitoring with CloudTrail, EventBridge, Lambda & DynamoDB
+- Built a real-time Cloud Security Detection Engine using CloudTrail, EventBridge, Lambda & DynamoDB
 - Built Prometheus + Grafana observability dashboards for Kubernetes infrastructure
 
 </td>
 
 <td valign="top" width="58%">
 
-<h3>Tech Stack</h3>
+### Tech Stack
 
 <i>Cloud</i>
 
